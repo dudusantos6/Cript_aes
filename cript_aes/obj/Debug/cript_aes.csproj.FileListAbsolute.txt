@@ -1,0 +1,6 @@
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\cript_aes\cript_aes\bin\Debug\cript_aes.exe
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\cript_aes\cript_aes\bin\Debug\cript_aes.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\cript_aes\cript_aes\obj\Debug\cript_aes.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\cript_aes\cript_aes\obj\Debug\cript_aes.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\cript_aes\cript_aes\obj\Debug\cript_aes.exe
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\cript_aes\cript_aes\obj\Debug\cript_aes.pdb
